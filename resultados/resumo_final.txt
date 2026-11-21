@@ -1,0 +1,40 @@
+
+=============================================
+REGIÃO: BRASIL
+=============================================
+Período: 2020-02-25 até 2023-03-18
+Total de casos: 37,085,520
+Total de mortes: 699,310
+Maior número de mortes em um mês: 82,364
+Mês do pico de mortes: 2021-04
+Total com segunda dose: 170,385,963
+Cobertura da segunda dose: 79.87%
+
+CORRELAÇÃO ENTRE AUMENTO DA COBERTURA E MORTES:
+Mesmo mês: 0.1628
+Vacinação um mês antes: 0.0078
+Vacinação dois meses antes: -0.0384
+
+=============================================
+REGIÃO: SERGIPE
+=============================================
+Período: 2020-03-14 até 2023-03-18
+Total de casos: 359,692
+Total de mortes: 6,502
+Maior número de mortes em um mês: 817
+Mês do pico de mortes: 2021-05
+Total com segunda dose: 1,860,868
+Cobertura da segunda dose: 80.95%
+
+CORRELAÇÃO ENTRE AUMENTO DA COBERTURA E MORTES:
+Mesmo mês: -0.0623
+Vacinação um mês antes: -0.0889
+Vacinação dois meses antes: -0.0781
+
+=============================================
+OBSERVAÇÕES IMPORTANTES
+=============================================
+A base de dados termina em 18/03/2023.
+Portanto, o ano de 2023 possui dados parciais.
+A correlação não demonstra relação de causa e efeito.
+Os indicadores de vacinação são acumulados e não devem ser somados.
